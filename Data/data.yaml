@@ -1,0 +1,5 @@
+train: /home/oliver18/Documents/Personal_Projects/Cats_Classification/Data/Data_labeled/train
+val: /home/oliver18/Documents/Personal_Projects/Cats_Classification/Data/Data_labeled/val
+names:
+  0: cat
+nc: 1
